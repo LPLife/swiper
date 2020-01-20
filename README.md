@@ -6,6 +6,10 @@
 
 > A Vue.js project
 
+# my-project
+
+> A Vue.js project
+
 ## Build Setup
 
 ``` bash
@@ -34,3 +38,4 @@ npm run dev
 ## 注意
 1. 代码中有移动端适配
 2. px转rem配置
+3. mint-ui ui框架
