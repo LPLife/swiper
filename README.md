@@ -35,7 +35,9 @@ yarn install
 # serve with hot reload at localhost:8080
 npm run dev
 ```
+
 ## 注意
-1. 代码中有移动端适配
-2. px转rem配置
-3. mint-ui ui框架
+
+- . 代码中有移动端适配
+- . px转rem配置
+- . mint-ui ui框架

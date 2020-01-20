@@ -33,6 +33,8 @@ export default {
         slidesPerView: "auto",
         lazyLoading : true,
         preloadImages:false,
+        centeredSlides : true,//默认slide居中
+        parallax : true, // 视差效果
         observer:true,//修改swiper自己或子元素时，自动初始化swiper 
         observeParents:true,//修改swiper的父元素时，自动初始化swiper 
         navigation: {
@@ -63,6 +65,7 @@ export default {
 .tab-item {
     width: 600px;
     height: 700px;
+    margin: 0 10px;
     background: darkcyan;
     background-size: 100% 100% !important;
     border-radius: 28px;

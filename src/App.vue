@@ -18,6 +18,9 @@ export default {
 }
 </script>
 <style lang="less">
+body {
+    margin: 0 auto;
+}
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -25,7 +28,6 @@ export default {
   text-align: center;
   color: #ffffff;
   margin-top: 60px;
-  max-width: 750px;
   margin: 0 auto;
   background: honeydew;
 }

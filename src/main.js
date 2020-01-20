@@ -9,7 +9,6 @@ import "swiper/dist/css/swiper.css";
 import '../static/rem';
 Vue.config.productionTip = false
 Vue.use(VueAwesomeSwiper);
-// publicJS.selfAdaptive(7.5, true);
 
 /* eslint-disable no-new */
 new Vue({
